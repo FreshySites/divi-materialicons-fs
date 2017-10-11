@@ -1,0 +1,45 @@
+#page-container .divi_materialicons::before,
+#page-container .divi_materialicons::after,
+#page-container .divi_materialicons.et-pb-icon,
+#page-container .et_pb_button.divi_materialicons::before,
+#page-container .et_pb_button.divi_materialicons::after,
+#page-container .et_pb_contact_reset.divi_materialicons::before,
+#page-container .et_pb_contact_reset.divi_materialicons::after,
+#page-container .et_pb_contact_submit.divi_materialicons::before,
+#page-container .et_pb_contact_submit.divi_materialicons::after,
+#page-container .et_pb_font_icon.divi_materialicons::before,
+#page-container .et_pb_font_icon.divi_materialicons::after,
+#page-container .et_pb_newsletter_button.divi_materialicons::before,
+#page-container .et_pb_newsletter_button.divi_materialicons::after,
+#page-container .et_pb_pricing_table_button.divi_materialicons::before,
+#page-container .et_pb_pricing_table_button.divi_materialicons::after,
+#page-container .et_pb_promo_button.divi_materialicons::before,
+#page-container .et_pb_promo_button.divi_materialicons::after,
+#page-container .et_overlay.divi_materialicons::before,
+#page-container .et_overlay.divi_materialicons::after,
+.et_font_icon li.mi::before {
+	font-family: 'Material Icons' !important; 
+	text-rendering: optimizeLegibility;
+    font-feature-settings: 'liga' 1;
+    font-style: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.et_font_icon li.mi {
+	font-size: 16px;
+}
+
+.fs_dmi_settings {
+	background: #fff;
+    padding: 10px 15px;
+    border-right: 2px solid #e5e5e5;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+.fs_dmi_credits {
+	display: block;
+	text-align: center;
+	color: #888;
+	font-size: 0.9em;
+}
